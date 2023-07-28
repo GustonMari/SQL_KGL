@@ -2,5 +2,5 @@
 
 ## Introduction
 * [Init](./Introduction/first.ipynb)
-* [SQL Query](./Introduction/querytrain.ipynb)
+* [SQL Query](./Introduction/querytrain.ipynb) => to finish
 ## Advanced Usage
